@@ -8,7 +8,7 @@
     "build": "next build"
   },
   "dependencies": {
-    "next": "13.4.7",
+    "next": "13.4.19",
     "next-translate": "^2.5.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -16,6 +16,6 @@
   "devDependencies": {
     "@types/node": "20.5.7",
     "@types/react": "18.2.21",
-    "next-translate-plugin": "2.4.4"
+    "next-translate-plugin": "2.5.3"
   }
 }
